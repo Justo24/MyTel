@@ -19,7 +19,6 @@ Inclua capturas de tela ou gifs animados que demonstrem a interface e as funcion
 Liste todos os pré-requisitos necessários para rodar o projeto, como:
 
 - [Plataforma .NET](https://dotnet.microsoft.com/download)
-- [Outras dependências]
 
 ## Instalação
 
